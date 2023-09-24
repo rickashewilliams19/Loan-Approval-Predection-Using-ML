@@ -1,6 +1,6 @@
 # Loan-Approval-Predection-Using-ML
 
-                                   ![featured](https://github.com/rickashewilliams19/Loan-Approval-Predection-Using-ML/assets/88403017/c26ab3e2-edce-451a-80e5-98dcd58ca5a6)
+  ![featured](https://github.com/rickashewilliams19/Loan-Approval-Predection-Using-ML/assets/88403017/c26ab3e2-edce-451a-80e5-98dcd58ca5a6)
 
 
 Project Summary:
